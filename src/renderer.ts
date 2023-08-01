@@ -28,4 +28,13 @@
 
 import './index.css';
 
-console.log('👋 This message is being logged by "renderer.js", included via Vite');
+interface Foo {
+  bar: string;
+}
+
+const foo: Foo = {
+  bar: '👋'
+}
+
+console.log(`${foo.bar} This message is being logged by "renderer.ts", included via vite`);
+
