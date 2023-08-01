@@ -26,6 +26,9 @@
  * ```
  */
 
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.tsx'
 import './index.css';
 
 interface Foo {
@@ -37,4 +40,11 @@ const foo: Foo = {
 }
 
 console.log(`${foo.bar} This message is being logged by "renderer.ts", included via vite`);
+
+ReactDOM.createRoot(document.getElementById('root')!).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+)
+
 

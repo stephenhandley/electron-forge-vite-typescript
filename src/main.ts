@@ -9,6 +9,8 @@ if (require('electron-squirrel-startup')) {
   app.quit();
 }
 
+console.log(`👋 Hi from "main.ts"`)
+
 const createWindow = (): void => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
