@@ -9,3 +9,6 @@ npm init electron-app@latest electron-forge-vite-typescript -- --template=vite
 ```
 
 2. Typescript was added with [this PR](https://github.com/stephenhandley/electron-forge-vite-typescript/pull/1) in this [branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript).
+
+<img width="820" alt="typescript" src="https://github.com/stephenhandley/electron-forge-vite-typescript/assets/3257/7573089a-094c-45b4-8073-b8519bdc7a22">
+
