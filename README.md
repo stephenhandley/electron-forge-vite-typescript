@@ -1,5 +1,5 @@
 # Electron + Forge + Vite (+ React)
-Get code generated from the base [Electron Forge Vite template](https://github.com/electron/forge/tree/main/packages/template/vite) to work with Typescript ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript)) and optionally with React (react branch).
+Get code generated from the base [Electron Forge Vite template](https://github.com/electron/forge/tree/main/packages/template/vite) to work with Typescript ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript)) and optionally with React ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript-react)).
 
 # Process
 
