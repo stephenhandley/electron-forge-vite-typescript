@@ -1,5 +1,5 @@
-# Electron + Forge + Vite (+ React)
-Get code generated from the base [Electron Forge Vite template](https://github.com/electron/forge/tree/main/packages/template/vite) to work with Typescript ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript)) and optionally with React ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript-react)).
+# Electron + Forge + Vite (+ React (+ Tailwind))
+Get code generated from the base [Electron Forge Vite template](https://github.com/electron/forge/tree/main/packages/template/vite) to work with Typescript ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript)) and optionally incrementally including React ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript-react)), Tailwind ([branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript-react-tailwind)).
 
 # Process
 
@@ -18,3 +18,5 @@ npm create vite@latest vite-react-swc-ts -- --template react-swc-ts
 ```
 
 <img width="820" alt="typescript-react" src="https://github.com/stephenhandley/electron-forge-vite-typescript/assets/3257/a9e6bc14-2c23-4c77-a6c4-b63c6748f0e2">
+
+4. Tailwind was added with [this PR](https://github.com/stephenhandley/electron-forge-vite-typescript/pull/3) in this [branch](https://github.com/stephenhandley/electron-forge-vite-typescript/tree/typescript-react-tailwind) based on following [their Vite guide](https://tailwindcss.com/docs/guides/vite).
