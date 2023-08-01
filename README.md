@@ -16,3 +16,5 @@ npm init electron-app@latest electron-forge-vite-typescript -- --template=vite
 ```
 npm create vite@latest vite-react-swc-ts -- --template react-swc-ts
 ```
+
+<img width="820" alt="typescript-react" src="https://github.com/stephenhandley/electron-forge-vite-typescript/assets/3257/a9e6bc14-2c23-4c77-a6c4-b63c6748f0e2">
